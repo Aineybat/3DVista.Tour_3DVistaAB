@@ -18,9 +18,9 @@ HotspotPanoramaOverlayTextImage_E4594145_F9B1_37A6_41B6_A133A9B312EA.text = Fire
 HotspotPanoramaOverlayTextImage_E01A1059_F8D7_35AE_41BE_0A8D6ED0C81D.text = Five-point Harness
 HotspotPanoramaOverlayTextImage_E492E52F_F9F1_3FE2_41E7_416D46E844CC.text = For more info...
 HotspotPanoramaOverlayTextImage_E39618BB_F851_76E1_41E8_D8C232AFC5C1.text = Glareshield
-HotspotPanoramaOverlayTextImage_E47004AE_F9F1_1EE3_41E3_81CC1F696083.text = Go To Galley 1
-HotspotPanoramaOverlayTextImage_E43AE89D_F9F3_36A6_41DD_8C842D8868B3.text = Go To Galley 2
+HotspotPanoramaOverlayTextImage_E43AE89D_F9F3_36A6_41DD_8C842D8868B3.text = Go To Galley 
 HotspotPanoramaOverlayTextImage_E7F6CCAD_F9F1_0EE1_41C3_4D5356120F6B.text = Go To Lavatory
+HotspotPanoramaOverlayTextImage_E47004AE_F9F1_1EE3_41E3_81CC1F696083.text = Go To Vestibule
 HotspotPanoramaOverlayTextImage_E029E314_F8D1_3BA6_41D2_79027D27DDCD.text = Hat Clips and Wardrobe
 HotspotPanoramaOverlayTextImage_E5E55A41_F9F1_15A1_41E2_EDD0F6DC22E1.text = Ice Compartment
 HotspotPanoramaOverlayTextImage_E08E8F76_F8D1_0A62_41D0_373848B84199.text = Jump Seat
@@ -48,8 +48,6 @@ HotspotPanoramaOverlayTextImage_E7638987_F9D7_76A1_41DD_0CEFDFD1D9A5.text = Wate
 HotspotPanoramaOverlayTextImage_E572AAA0_F9F1_0A9F_41E6_10E0FD042FE1.text = Window
 
 ## Media
-
-### 360 Video
 
 ### Audio
 audiores_DF4D17F5_F8B1_7A66_41E2_14986E4176F5.mp3Url = media/audio_DC5334A9_F8B1_1EE1_41EA_CC792556BD29_en.mp3
@@ -81,11 +79,11 @@ imlevel_E70C1A5B_F9D1_15A2_41D2_27EE0D970FF5.url = media/panorama_F4BD30CA_F851_
 imlevel_E70909DB_F9D1_16A2_41CF_E71923862E34.url = media/panorama_F4BD30CA_F851_36A2_41D4_26D35B39166F_HS_rjwy18s8_en.png
 imlevel_E70939AC_F9D1_16E7_41BD_E14BA5C639BD.url = media/panorama_F4BD30CA_F851_36A2_41D4_26D35B39166F_HS_ydhtx991_en.png
 imlevel_E70778DC_F9D1_16A7_41EC_4D212B772BD0.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_1019brxr_en.png
-imlevel_E70B695C_F9D1_17A6_41DC_9DC0A3D8F326.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_3eebxqe3_en.png
+imlevel_1619EF79_02C9_0E55_4170_F0C7D1C96410.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_3eebxqe3_en.png
 imlevel_E705392B_F9D1_17E2_41CD_BCA6927ECB4A.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_3i975z8n_en.png
 imlevel_E70B1943_F9D1_17A2_41E5_BA6EE007AB44.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_c90zli8h_en.png
 imlevel_E704690E_F9D1_17A2_41D6_5ECDB1BEF6A0.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_i2gwptfc_en.png
-imlevel_E70B1976_F9D1_1662_41E4_C844A2F26057.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_ic4gh7n2_en.png
+imlevel_163E7FB0_02C9_0ED4_417B_8E7242B3F7C0.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_ic4gh7n2_en.png
 imlevel_E704F8F5_F9D1_1666_41C1_2C9102F3915E.url = media/panorama_F4BD65EF_F851_3E62_41DB_3920D5373044_HS_qcicxbpn_en.png
 imlevel_E7720A75_F9D1_0A66_41D9_F9848C655C32.url = media/panorama_F4BDA364_F851_3A66_41CD_E441590C9C83_HS_79mwylu2_en.png
 imlevel_E70D8A8D_F9D1_0AA1_41BB_629506B04609.url = media/panorama_F4BDA364_F851_3A66_41CD_E441590C9C83_HS_at8iei9v_en.png
@@ -100,46 +98,47 @@ imlevel_E4CA05C7_F9D1_1EA2_41E9_B7183F797BA7.url = media/panorama_F5130DE7_F851_
 imlevel_DA2A8A7C_F9B1_0A66_41D4_8EEA58B50221.url = media/panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0_HS_hy2rfahp_en.png
 imlevel_DE8BD984_F8BF_16A6_41E1_C3AF173D160E.url = media/panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0_HS_r005w542_en.png
 imlevel_DE8A19AD_F8BF_16E6_41D9_526E3BB0BB40.url = media/panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0_HS_utn7jlb4_en.png
-imlevel_D93606F4_F9CF_7A67_41D1_860AF14C5F14.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_0.png
-imlevel_D93616F5_F9CF_7A61_41DF_96A29707ECD5.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_1.png
-imlevel_D93626F5_F9CF_7A61_41D4_EF9D79252BCE.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_2.png
-imlevel_D93955A7_F9CF_7EE2_4185_FCFA0DEA4D10.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_0.png
-imlevel_D93B45A7_F9CF_7EE1_41EE_7D702EF9CD85.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_1.png
-imlevel_D93B55A7_F9CF_7EE1_41E1_855C67CE5658.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_2.png
-imlevel_D93965BB_F9CF_7EE2_41E9_F14FE79068C6.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_0.png
-imlevel_D93975BB_F9CF_7EE2_41E9_D9DF5702BD8B.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_1.png
-imlevel_D93915BB_F9CF_7EE2_41E0_64C1F9C3751E.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_2.png
+imlevel_0DC1DF39_02BB_0FD5_4176_43BC259E8EAE.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_0.png
+imlevel_0DC42F3A_02BB_0FD7_417D_43951FBE848D.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_1.png
+imlevel_0DC7DF3A_02BB_0FD7_4167_9CF240686BC0.url = media/popup_E49FC769_F9D3_1A6E_41C9_D5150EF9EEDB_en_0_2.png
+imlevel_0DCB4DCD_02BB_124D_415C_FFD28611578A.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_0.png
+imlevel_0DCB1DCD_02BB_124D_4180_EA1FBA8F4E6F.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_1.png
+imlevel_0DCB0DCD_02BB_124D_417E_9DCB990763B8.url = media/popup_E4DD9FB0_F9D7_0AFE_41D2_E69E7D9D12A2_en_0_2.png
+imlevel_0DCA9DDE_02BB_124C_4172_6B16616AE7B9.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_0.png
+imlevel_0DC8EDDF_02BB_124C_4170_C98424B7AE4A.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_1.png
+imlevel_0DC88DDF_02BB_124C_416F_D0DDB66D464F.url = media/popup_E73C275C_F9D1_7BA6_41ED_02776D5FB28D_en_0_2.png
 
 ### Popup Image
 
+### Subtitle
+panorama_F4BD30CA_F851_36A2_41D4_26D35B39166F.subtitle = Area for preparing and storing in-flight meals.
+panorama_F4BC68C9_F851_36AE_41D3_61A4706C526F.subtitle = Pilots control aircraft, manage systems, and communicate here.
+panorama_F4BD65EF_F851_3E62_41DB_3920D5373044.subtitle = Seating area for passengers during the flight.
+panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0.subtitle = Small entrance area connecting cockpit and passenger cabin.
+panorama_F4BDA364_F851_3A66_41CD_E441590C9C83.subtitle = Small restroom for passengers and crew on board.
+
 ### Title
 panorama_F4BC68C9_F851_36AE_41D3_61A4706C526F.label = Flight Deck/Cockpit
-panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0.label = Galley 1
-panorama_F4BD30CA_F851_36A2_41D4_26D35B39166F.label = Galley 2
+panorama_F4BD30CA_F851_36A2_41D4_26D35B39166F.label = Galley
 panorama_F4BDA364_F851_3A66_41CD_E441590C9C83.label = Lavatory
 panorama_F4BD65EF_F851_3E62_41DB_3920D5373044.label = Passenger Cabin
+panorama_F5130DE7_F851_0E62_4189_4194A3EE03F0.label = Vestibule
 video_DDB6BD50_F84F_0FBF_41E3_0DDA1B228CBE.label = flight deck v1
-media_DC0BA82B_F871_35E2_41E4_DC3A508CDFBD.label = y2mate.com - Full Motion Airbus A320  360 video on takeoff part 1_360p
-video_DC929598_F871_1EAF_41E0_30FF826456C6.label = y2mate.com - Full Motion Airbus A320  360 video on takeoff part 1_360p
 
 ### Video
-videores_DE82D1B2_F8B1_16E2_41E2_6B5895DA557D.url = media/media_DC0BA82B_F871_35E2_41E4_DC3A508CDFBD_en.mp4
-videores_DE82D1B2_F8B1_16E2_41E2_6B5895DA557D.posterURL = media/media_DC0BA82B_F871_35E2_41E4_DC3A508CDFBD_poster_en.jpg
-videolevel_DE8231DF_F8B1_16A1_41E3_D908E29C68FD.url = media/video_DC929598_F871_1EAF_41E0_30FF826456C6_en.mp4
-videolevel_DE8231DF_F8B1_16A1_41E3_D908E29C68FD.posterURL = media/video_DC929598_F871_1EAF_41E0_30FF826456C6_poster_en.jpg
-videolevel_DE82B203_F8B1_15A1_41EC_857E9A09C64D.url = media/video_DDB6BD50_F84F_0FBF_41E3_0DDA1B228CBE_en.mp4
-videolevel_DE82B203_F8B1_15A1_41EC_857E9A09C64D.posterURL = media/video_DDB6BD50_F84F_0FBF_41E3_0DDA1B228CBE_poster_en.jpg
+videolevel_13A3A120_02E9_BAB0_414C_613076FDC300.url = media/video_DDB6BD50_F84F_0FBF_41E3_0DDA1B228CBE_en.mp4
+videolevel_13A3A120_02E9_BAB0_414C_613076FDC300.posterURL = media/video_DDB6BD50_F84F_0FBF_41E3_0DDA1B228CBE_poster_en.jpg
 
 ### Video Subtitles
 
 ## Skin
 
 ### Multiline Text
-HTMLText_E8362EBD_F873_0AE6_41CB_5D73836651BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Arial Narrow';"><B><I>Now you are in :</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Arial Narrow';"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E8362EBD_F873_0AE6_41CB_5D73836651BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Arial Narrow';"><B><I>Now you are in :</I></B></SPAN></SPAN></DIV><DIV STYLE="line-height:128%;text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:30px;font-family:'Arial Narrow';"><B>{{Title}}</B></SPAN></SPAN></DIV><DIV STYLE="line-height:128%;text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:19px;font-family:'Arial Narrow';"><B>{{subtitle}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 6
+tour.name = Airbus experience
